@@ -1,5 +1,5 @@
 # Lightweight Node image
-FROM node:18-alpine
+FROM node:14-alpine
 
 WORKDIR /app
 
